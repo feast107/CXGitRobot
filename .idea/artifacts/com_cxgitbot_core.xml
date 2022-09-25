@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="com.cxgitbot.core">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_cxgitbot_core</output-path>
+    <root id="archive" name="com.cxgitbot.core.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/build/classes/java/main/com/cxgitbot/core/Cortex.class" />
+    </root>
+  </artifact>
+</component>

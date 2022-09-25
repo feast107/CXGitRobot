@@ -37,6 +37,7 @@ public class Addon extends MclModule {
 
     @Override
     public void prepare() {
+        System.out.println("?????");
         if (loader.packageManager.hasPackage(ADDON_ID)) {
             loader.packageManager.getPackage(ADDON_ID).channel = CURRENT_CHANNEL;
         } else {

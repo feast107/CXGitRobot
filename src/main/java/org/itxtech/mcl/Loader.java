@@ -12,6 +12,7 @@ import org.itxtech.mcl.impl.DefaultLogger;
 import org.itxtech.mcl.module.ModuleManager;
 import org.itxtech.mcl.pkg.PackageManager;
 
+import javax.swing.plaf.synth.SynthLookAndFeel;
 import java.io.File;
 import java.io.PrintWriter;
 import java.io.StringWriter;

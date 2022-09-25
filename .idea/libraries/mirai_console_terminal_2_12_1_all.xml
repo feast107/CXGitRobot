@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mirai-console-terminal-2.12.1-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mirai-console-2.12.1-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mirai-console-terminal-2.12.1-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mirai-core-all-2.12.1-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

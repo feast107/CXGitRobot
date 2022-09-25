@@ -1,14 +1,14 @@
-# Mirai Console Loader
+# CX-Git-Bot
 
 [![GitHub release](https://img.shields.io/github/v/release/itxtech/mirai-console-loader?label=stable)](https://github.com/iTXTech/mirai-console-loader/releases)
 [![Maven Central](https://img.shields.io/maven-central/v/org.itxtech/mcl)](https://repo.maven.apache.org/maven2/org/itxtech/mcl/)
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/177)
 
-模块化、轻量级且支持完全自定义的 [mirai](https://github.com/mamoe/mirai) 加载器。
-
-开发者请参见 [MCL 开发文档](docs/README.md)。
 
 ## 简介
+`Using Mirai` 采用 Mirai - Java 运行的QQ机器人
+
+
 
 `iTX Technologies Mirai Console Loader`（下简称`MCL`）采用模块化设计，包含以下几个基础模块：
 
@@ -70,20 +70,3 @@ chmod +x mcl
 
 若需要默认使用旧版插件格式，请移除`config.json`的`archiveSuffix`中的`.mirai2.jar`字段。
 
-## 开源许可证
-
-    iTXTech Mirai Console Loader
-    Copyright (C) 2020-2022 iTX Technologies
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as
-    published by the Free Software Foundation, either version 3 of the
-    License, or (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
-
-    You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
